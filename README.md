@@ -126,23 +126,3 @@ The proposed mechanism is compared with multiple baseline approaches to evaluate
 
 If you use this code in your research, please cite our paper:
 
-```bibtex
-@article{wang2024emad,
-  title={Unlocking Liquidity in Cross-Regional Energy Markets with an Automated Market Maker-Based Exchange Mechanism},
-  author={Wang, Hengdi and Feng, Yebo and Zhu, Konglin and Zhang, Lin and Xu, Jiahua},
-  journal={},
-  year={2024}
-}
-```
-
-## License
-
-This project is released under the MIT License.
-
-## Contact
-
-For questions or collaborations, please contact:
-
-* Hengdi Wang: [wanghengdi@bupt.edu.cn](mailto:wanghengdi@bupt.edu.cn)
-* Yebo Feng: [yebo.feng@ntu.edu.sg](mailto:yebo.feng@ntu.edu.sg)
-* Konglin Zhu: [klzhu@bupt.edu.cn](mailto:klzhu@bupt.edu.cn)
